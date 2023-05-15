@@ -1,0 +1,8 @@
+body{
+    height: 100svh;
+}
+
+.container{
+    background-color: #ff0000;
+    height:100% ;
+}
